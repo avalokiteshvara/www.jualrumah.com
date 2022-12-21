@@ -1,0 +1,17 @@
+
+
+
+
+<option value="any"><?php echo $this->lang->line('any')?></option>
+<option value="rumah"><?php echo $this->lang->line('House')?></option>
+<option value="tanah"><?php echo $this->lang->line('land')?></option>
+<option value="apartement"><?php echo $this->lang->line('flats/apartement')?></option>
+<option value="ruko"><?php echo $this->lang->line('shop_house')?></option>
+<option value="kios"><?php echo $this->lang->line('kiosk')?></option>
+<option value="rumah_kos"><?php echo $this->lang->line('boarding_house')?></option>
+<option value="villa"><?php echo $this->lang->line('villa')?></option>
+<option value="gudang"><?php echo $this->lang->line('warehouse')?></option>
+<option value="industri_pabrik"><?php echo $this->lang->line('commercial_property')?></option>
+<option value="kantor"><?php echo $this->lang->line('office')?></option>
+
+										
